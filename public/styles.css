@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Rancho|Satisfy');
+
+body{
+  background-image:url('http://www.designlovefest.com/wp-content/uploads/downloads/2015/05/watercolor-sunrise.jpg');
+}
+
+.container{
+  text-align: center;
+}
+
+h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 20vh;
+  color:white;
+}
+p{
+  font-family: 'Rancho', cursive;
+  font-size: 8vh;
+  color:white;
+
+}
